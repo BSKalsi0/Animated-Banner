@@ -1,2 +1,2 @@
 # Animated-Banner
-- for github profile
+- For github profile
